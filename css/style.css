@@ -1,0 +1,61 @@
+body {
+	background-image: url(https://goodakk.ru/assets/93f8d5f2/images/pattern_bg.jpg);
+}
+
+.zag1 {
+	color: white;
+	font-size: 5em;
+	font-weight: bold;
+	font-family: tahoma ;
+	text-align: center;
+	margin-top: 300px;
+}
+
+#down {
+	color: white;
+	font-size: 5em;
+	margin-left: 50px;
+	text-decoration: none;
+	font-family: tahoma;
+	background-color:#5FA611;
+	padding: 20px;
+	transition: 0.2s;
+	border-radius: 60px 50px;
+}
+
+#down:hover {
+	background-color: #67A624;
+	color: white;
+}
+
+
+#imd {
+	margin-top: 200px;
+}
+
+#prix {
+	color: white;
+	font-size: 3.8em;
+	font-family: arial;
+}
+
+#name_prog {
+	color: white;
+	font-size: 5em;
+	font-family: arial black;
+}
+
+#name_prog2 {
+	color: white;
+	font-size: 3em;
+	font-family: arial black;
+}
+
+.zag2 {
+	color: white;
+	font-size: 5em;
+	font-weight: bold;
+	font-family: tahoma ;
+	text-align: center;
+	margin-top: 20px;
+}
